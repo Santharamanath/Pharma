@@ -1,4 +1,4 @@
-![329874115-7e283d10-b288-497a-ab4d-9bfa2fa9edc0](https://github.com/Santharamanath/Pharma/assets/149035289/08cd638e-448c-44bc-a2a3-bff96f6c060e)# Project Responsive Web Design using Bootstrap
+
 ## Date:06.05.2024
 
 ## AIM:
